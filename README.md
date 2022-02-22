@@ -1,3 +1,3 @@
 # twitter
 
-go to code branch to get the code
+what do i write?
